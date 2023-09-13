@@ -6,4 +6,4 @@ Github Actionsで定期的にJSONファイルを更新しています。
 
 ## 処理の流れ
 
-↓fetch_data.pyで更新
+↓fetch_data.pyでGoogleスプレッドシートからJSONファイルを取得
