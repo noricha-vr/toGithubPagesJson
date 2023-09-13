@@ -1,0 +1,35 @@
+name: Scheduled Data Fetch
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  fetch-and-save:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Run script
+      run: bash update.sh
+
+    # https://github.com/peaceiris/actions-gh-pages
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/main'
+      with:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        external_repository: noricha-vr/github-pages-sample
+        publish_branch: gh-pages
+        publish_dir: ./docs
