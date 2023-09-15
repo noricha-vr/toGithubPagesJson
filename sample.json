@@ -338,6 +338,20 @@
     {
         "ジャンル": "学術系",
         "曜日": "月曜日",
+        "イベント名": "化学のおはなし会",
+        "開始時刻": "22:00",
+        "開催周期": "隔週(グループA)",
+        "主催・副主催": "Prolin",
+        "Join先": "https://vrchat.com/home/user/usr_f77e3227-f70d-437a-89dd-2f5f318fc8cf",
+        "Discord": "https://discord.com/invite/hYGVkeraKu",
+        "Twitter": "",
+        "ハッシュタグ": "#化学のおはなし会",
+        "ポスター": "https://cdn.discordapp.com/attachments/1053189931268325386/1053205720805412945/ChemistryTalkPartyPoster.png",
+        "イベント紹介": ""
+    },
+    {
+        "ジャンル": "学術系",
+        "曜日": "月曜日",
         "イベント名": "VR酔い訓練集会",
         "開始時刻": "23:00",
         "開催周期": "毎週を目指した不定期",
@@ -346,20 +360,6 @@
         "Discord": "",
         "Twitter": "",
         "ハッシュタグ": "#VR酔い訓練集会",
-        "ポスター": "",
-        "イベント紹介": ""
-    },
-    {
-        "ジャンル": "学術系",
-        "曜日": "月曜日",
-        "イベント名": "化学のおはなし会",
-        "開始時刻": "22:00",
-        "開催周期": "隔週(グループA)",
-        "主催・副主催": "Prolin",
-        "Join先": "https://vrchat.com/home/user/usr_f77e3227-f70d-437a-89dd-2f5f318fc8cf",
-        "Discord": "https://discord.com/invite/hYGVkeraKu",
-        "Twitter": "https://twitter.com/asrs532",
-        "ハッシュタグ": "#化学のおはなし会",
         "ポスター": "",
         "イベント紹介": ""
     },
