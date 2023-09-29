@@ -29,6 +29,20 @@
     },
     {
         "ジャンル": "技術系",
+        "曜日": "日曜日",
+        "イベント名": "ゲーム開發集會",
+        "開始時刻": "21:50",
+        "開催周期": "毎週",
+        "主催・副主催": "fog8360",
+        "Join先": "https://vrch.at/8z3kc7m7",
+        "Discord": "https://discord.gg/Mes3nP3mZt",
+        "Twitter": "https://twitter.com/zs_fog",
+        "ハッシュタグ": "#VRC遊戲開發集會",
+        "ポスター": "",
+        "イベント紹介": ""
+    },
+    {
+        "ジャンル": "技術系",
         "曜日": "月曜日",
         "イベント名": "分散SNS集会",
         "開始時刻": "22:00",
@@ -108,20 +122,6 @@
         "Discord": "https://discord.com/invite/25A5q7mDtk",
         "Twitter": "https://twitter.com/digiponta",
         "ハッシュタグ": "#VRC電子工作友の会",
-        "ポスター": "",
-        "イベント紹介": ""
-    },
-    {
-        "ジャンル": "技術系",
-        "曜日": "水曜日",
-        "イベント名": "ゲーム開發集会",
-        "開始時刻": "21:30",
-        "開催周期": "毎週",
-        "主催・副主催": "fog8360",
-        "Join先": "https://vrch.at/8z3kc7m7",
-        "Discord": "https://discord.gg/Mes3nP3mZt",
-        "Twitter": "https://twitter.com/zs_fog",
-        "ハッシュタグ": "#VRC遊戲開發集會",
         "ポスター": "",
         "イベント紹介": ""
     },
