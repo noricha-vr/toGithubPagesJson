@@ -16,6 +16,20 @@
     {
         "ジャンル": "技術系",
         "曜日": "日曜日",
+        "イベント名": "技術オタク交流会 (Tech Geek Cafe)",
+        "開始時刻": "21:00",
+        "開催周期": "第2日曜日",
+        "主催・副主催": "digiponta",
+        "Join先": "digiponta",
+        "Discord": "https://discord.gg/ECQ8k63CFk",
+        "Twitter": "https://twitter.com/digiponta",
+        "ハッシュタグ": "#TechGeekCafe",
+        "ポスター": "https://cdn.discordapp.com/attachments/1111955559562870875/1167260165742006272/Poster_TechGeekCafe_2023102701.png",
+        "イベント紹介": "若手技術者と高齢技術者の交流/BOF/井戸端会議の場の提供。基本は、任意参加、任意解散です。お時間はある方、ご参加ください。参加条件：\t自称技術オタクの方か、オタク技術に興味のある方"
+    },
+    {
+        "ジャンル": "技術系",
+        "曜日": "日曜日",
         "イベント名": "ゲーム開發集會",
         "開始時刻": "21:50",
         "開催周期": "毎週",
@@ -66,8 +80,8 @@
         "Discord": "https://discord.gg/4NTwMMMw9P",
         "Twitter": "https://twitter.com/yineleyici",
         "ハッシュタグ": "#分散SNS集会",
-        "ポスター": "",
-        "イベント紹介": ""
+        "ポスター": "https://cdn.discordapp.com/attachments/1111955559562870875/1143841840370569347/SNS.png?ex=654b573a&is=6538e23a&hm=3437dbbeadf2b0f54343791cf5986843f0c2837370315a1846c151e0de081286&",
+        "イベント紹介": "MisskeyやBlueskyなどの分散SNSのユーザー、運営者、その他興味を持っている人が集まり、新しい技術や話題に触れたり、同じ話題や困難を分かち合い、より高めたり、楽しんだり、癒やされたりする場所だよ"
     },
     {
         "ジャンル": "技術系",
@@ -287,11 +301,11 @@
         "開催周期": "隔週(グループA)",
         "主催・副主催": "Nunu_3060",
         "Join先": "https://vrchat.com/home/user/usr_2f0d6e6c-ddeb-4992-afb7-6840970fa714",
-        "Discord": "https://discord.gg/P5npRDV7",
+        "Discord": "",
         "Twitter": "https://twitter.com/Nunu693684661",
         "ハッシュタグ": "",
         "ポスター": "",
-        "イベント紹介": ""
+        "イベント紹介": "シェーダーに興味がある人で集まってお話や交流を行います。"
     },
     {
         "ジャンル": "技術系",
@@ -329,11 +343,11 @@
         "開催周期": "毎月11日",
         "主催・副主催": "kurone-kito",
         "Join先": "https://vrc.group/KITO.5699",
-        "Discord": "",
+        "Discord": "https://discord.gg/hM5dpGaWgB",
         "Twitter": "https://twitter.com/kurone_kito",
         "ハッシュタグ": "#UIUXデザイン集会",
         "ポスター": "https://pbs.twimg.com/media/F5veUsWboAAVe_5?format=jpg&name=4096x4096",
-        "イベント紹介": ""
+        "イベント紹介": "Webで！ゲームで！業務システムで！皆さんの経験したクソUI・神UIなお話を飲み会感覚でお気軽にお聞かせください！"
     },
     {
         "ジャンル": "技術系",
@@ -346,7 +360,7 @@
         "Discord": "https://discord.gg/VDQMrAb",
         "Twitter": "https://twitter.com/cleantted_s",
         "ハッシュタグ": "#VRC競プロ部",
-        "ポスター": "",
+        "ポスター": "https://cdn.discordapp.com/attachments/1111955559562870875/1132712360012939336/VRCprocon.png?ex=6547c417&is=65354f17&hm=a0fb722089c9020a5e857b1758aa4b20d384711a926496346895f7bc2220fbc5&",
         "イベント紹介": ""
     },
     {
@@ -389,6 +403,20 @@
         "Twitter": "https://twitter.com/Silvertail0202",
         "ハッシュタグ": "#黒猫雑学カフェ",
         "ポスター": "",
+        "イベント紹介": ""
+    },
+    {
+        "ジャンル": "学術系",
+        "曜日": "水曜日",
+        "イベント名": "VRC歴史集会",
+        "開始時刻": "22:00",
+        "開催周期": "セミナー会 ：毎月第一月曜日、雑談会：毎月第三水曜日",
+        "主催・副主催": "るいざ・しゃーろっと",
+        "Join先": "https://vrchat.com/home/group/grp_11111ccd-db54-4ecd-be27-fcae98acf0ee",
+        "Discord": "",
+        "Twitter": "",
+        "ハッシュタグ": "#VRC歴史集会",
+        "ポスター": "https://cdn.discordapp.com/attachments/1053189931268325386/1130513769580220477/VRC2023.png",
         "イベント紹介": ""
     },
     {
