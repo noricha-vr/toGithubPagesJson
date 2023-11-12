@@ -1,8 +1,8 @@
 name: Scheduled Data Fetch
 
 on:
-  repository_dispatch:
-    types: [run-fetch]
+  schedule:
+    - cron: '30 * * * *'
 
 jobs:
   fetch-and-save:
