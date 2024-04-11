@@ -157,7 +157,7 @@
         "ジャンル": "技術系",
         "曜日": "水曜日",
         "イベント名": "ML集会",
-        "開始時刻": "22:00",
+        "開始時刻": "21:30",
         "開催周期": "毎週",
         "主催・副主催": "げそん≺GesonAnko≻",
         "Join先": "https://vrc.group/VRCML.9230",
@@ -264,6 +264,20 @@
         "ハッシュタグ": "#BlenderUnity交流会",
         "ポスター": "https://pbs.twimg.com/media/GAL7HuzW4AENTAf?format=png&name=900x900",
         "イベント紹介": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 改変アバターや自作アバターで趣味が合う人を探したい方！！"
+    },
+    {
+        "ジャンル": "技術系",
+        "曜日": "金曜日",
+        "イベント名": "VRChat近況報告会",
+        "開始時刻": "21:00",
+        "開催周期": "毎週",
+        "主催・副主催": "nisshi-dev | にっし",
+        "Join先": "https://vrchat.com/home/group/grp_14a2e867-9ca9-4a5f-a5eb-8088b72a5881",
+        "Discord": "https://discord.gg/TZBSQdJdGa",
+        "Twitter": "https://twitter.com/nsd244",
+        "ハッシュタグ": "#VRChat近況報告会",
+        "ポスター": "https://pbs.twimg.com/media/GKYKwVQaYAAXwQt?format=jpg&name=large",
+        "イベント紹介": "個人や仕事で何か最近やってることを共有してモチベーションを高める会です。今月は進捗産むぞ！って時は来るとハッピーになるかも？"
     },
     {
         "ジャンル": "技術系",
