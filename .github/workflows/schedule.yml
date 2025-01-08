@@ -1,8 +1,9 @@
 name: Scheduled Data Fetch
 
 on:
-  schedule:
-    - cron: '30 * * * *'
+  # schedule:
+  #   - cron: '30 * * * *'
+  workflow_dispatch:  # 手動実行のみを許可
 
 jobs:
   fetch-and-save:
@@ -25,7 +26,6 @@ jobs:
     - name: Run script
       run: bash update.sh
 
-    # https://github.com/peaceiris/actions-gh-pages
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       if: github.ref == 'refs/heads/main'
