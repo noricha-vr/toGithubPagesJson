@@ -27,6 +27,11 @@ def convert_data(api_data):
         tags = item.get("tags", [])
         genre = "技術系" if "tech" in tags else "学術系" if "academic" in tags else "その他"
         
+        # ポスター画像の処理（空文字列の場合はNoneに変換）
+        poster = item.get("poster_image", "")
+        if poster == "":
+            poster = None
+            
         converted_item = {
             "ジャンル": genre,
             "曜日": weekday_ja,
@@ -38,7 +43,7 @@ def convert_data(api_data):
             "Discord": item.get("discord", ""),
             "Twitter": item.get("sns_url", ""),
             "ハッシュタグ": item.get("twitter_hashtag", ""),
-            "ポスター": item.get("poster_image", ""),
+            "ポスター": poster,
             "イベント紹介": item.get("description", "")
         }
         
