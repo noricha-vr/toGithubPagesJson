@@ -58,6 +58,7 @@ def convert_data(api_data):
 if __name__ == '__main__':
     # 環境変数URLからURLを取得する
     url = os.environ.get('URL', 'https://vrc-ta-hub.com/api/v1/community/?format=json')
+    print(f"取得URL: {url}")
     
     # URLからデータを取得する
     response = requests.get(url)
@@ -67,9 +68,15 @@ if __name__ == '__main__':
 
     # JSONデータを取得する
     api_data = response.json()
+    print(f"取得したデータ件数: {len(api_data)}")
+    
+    # データの一部を表示（デバッグ用）
+    if api_data:
+        print(f"最初のデータ: {json.dumps(api_data[0], ensure_ascii=False, indent=2)[:200]}...")
 
     # データを変換
     converted_data = convert_data(api_data)
+    print(f"変換後のデータ件数: {len(converted_data)}")
 
     # JSONデータをファイルに保存する
     with open('docs/sample.json', 'w', encoding='utf-8') as file:
