@@ -7,10 +7,10 @@
         "開催周期": "隔週",
         "主催・副主催": "KAGU3・いとじゅん",
         "Join先": "https://vrc.group/ITCA.5490",
-        "Discord": "https://discord.gg/UGCjerre",
+        "Discord": "https://discord.gg/ZhwbCX4AYB",
         "Twitter": "https://x.com/Kagu3_IT",
         "ハッシュタグ": "#VRC_ITキャリア集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/ITCA_poster-1000_A1vtPYd-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/ITCA_poster-1000_A1vtPYd.jpeg",
         "イベント紹介": "ITエンジニアやITエンジニアになりたい人が、今後のキャリア形成について相談⁄雑談する集会です。\r\n学生・非エンジニアでもOK。ITエンジニア的な雑談をしにくるでもOK。\r\n\r\nたまにキャリアに関連するLT会（講演会）をします。"
     },
     {
@@ -44,6 +44,20 @@
     {
         "ジャンル": "技術系",
         "曜日": "日曜日",
+        "イベント名": "VRC脳波技術集会",
+        "開始時刻": "21:00",
+        "開催周期": "不定期",
+        "主催・副主催": "彩瑞スピス",
+        "Join先": "https://vrc.group/EEGIRL.5765",
+        "Discord": "https://discord.gg/KgMXYgZy8w",
+        "Twitter": "",
+        "ハッシュタグ": "#VRC脳波技術集会",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/EEG_Tech_Event_Poster-4_20251221-1000.jpeg",
+        "イベント紹介": "VRC脳波技術集会は、「VRChatの入力装置として脳波測定機器（BCI/BMI等）が使えないか？」というアイデアを具現化するために\r\n脳波測定からバイオセンシング技術に渡る様々な技術やガジェットの調査、LTの発表、コンテンツの制作を行うグループです。\r\n不定期ですが日曜22時やVketなどのイベントのタイミングで集会を開催しています。\r\nもしこの技術の世界に興味がありましたら、まずはDiscordやVRChat Groupに是非ご参加ください！"
+    },
+    {
+        "ジャンル": "技術系",
+        "曜日": "日曜日",
         "イベント名": "VRアカデミア集会",
         "開始時刻": "21:00",
         "開催周期": "月１回ペース、不定期",
@@ -52,22 +66,36 @@
         "Discord": "https://sites.google.com/view/vr-academia/access?authuser=0",
         "Twitter": "",
         "ハッシュタグ": "#VRアカデミア",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/vracademia-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/vracademia.jpeg",
         "イベント紹介": "開催曜日: 土日、あるいは祝日のことが多い\r\n開催時間: 13時開始、あるいは21時開始のことが多い\r\n\r\n「VRアカデミア」はなんとなくバーチャルっぽい学術好きな人たちによる集いです。そこでは毎月、自身が興味があるアカデミックな話題をぐだぐだお話する集会を開催しています！公式ウェブページや交流用のdiscordサーバーもありますので、ぜひ覗いてみてください〜"
     },
     {
         "ジャンル": "技術系",
         "曜日": "日曜日",
-        "イベント名": "ゲーム開発集会Ⅲ",
+        "イベント名": "ゲーム開発集会Ⅳ",
         "開始時刻": "21:00",
         "開催周期": "隔週",
-        "主催・副主催": "---",
+        "主催・副主催": "うゆuyu",
         "Join先": "https://vrc.group/GAME.2515",
         "Discord": "https://discord.gg/Mes3nP3mZt",
-        "Twitter": "https://mixi.social/communities/53f45a7e-7c39-4ae3-af69-0e39a935b9d9/",
+        "Twitter": "https://x.com/metaverse_gdm",
         "ハッシュタグ": "#VRCゲーム開発集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/gdm-poster5-1000_x2P0zf8-1000-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/gdm_poster_v4-1000.jpeg",
         "イベント紹介": "ゲーム開発（ゲームデザイン、2D・3Dグラフィック、シナリオ、音楽、プログラミング等）に関する交流イベントです。ゲーム開発に興味がある人なら誰でも参加できます！"
+    },
+    {
+        "ジャンル": "学術系",
+        "曜日": "日曜日",
+        "イベント名": "チョット詳しいヒコーキの話",
+        "開始時刻": "21:00",
+        "開催周期": "不定期",
+        "主催・副主催": "クロノコ",
+        "Join先": "https://vrchat.com/home/group/grp_c0796da0-aa11-4af6-9dc2-c2de33e5431e/calendar/cal_0df56540-0f4f-4ca1-a5fc-4db91cd3ab8c",
+        "Discord": "https://discord.gg/theblackaces",
+        "Twitter": "https://x.com/ToBFTlQC4nZDALq",
+        "ハッシュタグ": "#チョット詳しいヒコーキの話",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B3_ToBFTlQC4nZDALq___X_-_Google_Chrome_2026_01_21_22_00_35-1000.jpeg",
+        "イベント紹介": "私（クロノコ）がヒコーキのあれこれに関してわかりやすく解説するイベントです！\r\n\r\nDiscorサーバーは作っていませんが、URLを入れないと進めなかったので関係ないサーバーのURLを入れています。"
     },
     {
         "ジャンル": "技術系",
@@ -100,30 +128,16 @@
     {
         "ジャンル": "技術系",
         "曜日": "月曜日",
-        "イベント名": "AI集会ゆる雑談Week",
+        "イベント名": "AI集会",
         "開始時刻": "21:00",
-        "開催周期": "隔週",
+        "開催周期": "毎週",
         "主催・副主催": "余暇",
         "Join先": "https://vrc.group/VRCAI.0943",
-        "Discord": "https://discord.gg/QbA66TzwpS",
-        "Twitter": "https://x.com/tarot_AtA",
+        "Discord": "https://discord.gg/z6kGncvQna",
+        "Twitter": "",
         "ハッシュタグ": "#VRCAI集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/ChatGPT_Image_2025425_18_16_00-1000-1000.jpeg",
-        "イベント紹介": "AIに関する話題についての集会イベント\r\nこちらは非技術向けゆる雑談Weekの案内です。\r\n日常でAIをどう使える？AIによって世界はどう変わる？\r\nそんな感じの話がメインです。\r\n\r\n技術者向けVRChat-AI集会テック集会もあるよ！"
-    },
-    {
-        "ジャンル": "技術系",
-        "曜日": "月曜日",
-        "イベント名": "AI集会テックWeek",
-        "開始時刻": "21:00",
-        "開催周期": "偶数週",
-        "主催・副主催": "余暇",
-        "Join先": "https://vrc.group/VRCAI.0943",
-        "Discord": "https://discord.gg/QbA66TzwpS",
-        "Twitter": "https://x.com/tarot_AtA",
-        "ハッシュタグ": "#VRCAI集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/AITEChWeek%E7%94%A8-1000-1000-1000-1000.jpeg",
-        "イベント紹介": "AIに関するVRChat集会です。\r\n技術者向けにコアなAIモデルやフレームワーク談義などを行っています。\r\n\r\n非技術者向けゆる雑談Weekとの隔週交互開催です。"
+        "ポスター": "https://data.vrc-ta-hub.com/poster/AI%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000.jpeg",
+        "イベント紹介": "AIをもっと身近に、もっと自由に！\r\nChatGPTやGeminiといった大規模言語モデルを中心に、生成AIについて技術から学術までなんでもアリな雑談を繰り広げる集会です\r\n\r\n掲載している開催時間は60分となっていますが、基本23:45頃まで人が残っていますので気軽にご来場ください！"
     },
     {
         "ジャンル": "技術系",
@@ -142,16 +156,72 @@
     {
         "ジャンル": "技術系",
         "曜日": "月曜日",
-        "イベント名": "VRC脳波技術集会",
-        "開始時刻": "23:00",
-        "開催周期": "不定期",
-        "主催・副主催": "彩瑞スピス",
-        "Join先": "https://vrc.group/EEGIRL.5765",
-        "Discord": "https://discord.gg/KgMXYgZy8w",
+        "イベント名": "SW_Arch ソフトウェアアーキテクチャ集会",
+        "開始時刻": "22:00",
+        "開催周期": "毎月第 1, 3 週",
+        "主催・副主催": "主催: somnicat 副主催: ありあな",
+        "Join先": "https://vrc.group/SWARCH.8812",
+        "Discord": "https://discord.gg/WeRWZYbWSp",
+        "Twitter": "https://x.com/somnicattus",
+        "ハッシュタグ": "#SW_Arch_VRC",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/SW_Arch_icon.png",
+        "イベント紹介": "ソフトウェアアーキテクチャについて語る集会です。隔週月曜日、第1, 3月曜日に開催しています。\r\n現役のアーキテクトから、アーキテクチャに興味を持ち始めた初心者の方まで、ゆるっと語りましょう。"
+    },
+    {
+        "ジャンル": "その他",
+        "曜日": "月曜日",
+        "イベント名": "TestUser Community",
+        "開始時刻": "22:00",
+        "開催周期": "Every week",
+        "主催・副主催": "testuser",
+        "Join先": "",
+        "Discord": "",
         "Twitter": "",
-        "ハッシュタグ": "#VRC脳波技術集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/EEG_Tech_Event_Poster-3-2-1000-1000-1000.jpeg",
-        "イベント紹介": "VRC脳波技術集会は、脳波測定機器（BCI等）や関連技術に関する紹介、LT、制作物の展示などを行うイベントです。もし脳波技術に興味がありましたら是非ご参加ください！"
+        "ハッシュタグ": "",
+        "ポスター": null,
+        "イベント紹介": ""
+    },
+    {
+        "ジャンル": "その他",
+        "曜日": "月曜日",
+        "イベント名": "TestUser Community",
+        "開始時刻": "22:00",
+        "開催周期": "Every week",
+        "主催・副主催": "testuser",
+        "Join先": "",
+        "Discord": "",
+        "Twitter": "",
+        "ハッシュタグ": "",
+        "ポスター": null,
+        "イベント紹介": ""
+    },
+    {
+        "ジャンル": "技術系",
+        "曜日": "月曜日",
+        "イベント名": "VRChat.ts",
+        "開始時刻": "22:00",
+        "開催周期": "毎月第 2, 4 週",
+        "主催・副主催": "主催: somnicat 副主催: ありあな",
+        "Join先": "https://vrc.group/VRCTS.5197",
+        "Discord": "https://discord.gg/uF4gmF4R7T",
+        "Twitter": "https://x.com/somnicattus",
+        "ハッシュタグ": "#VRChat_ts",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/vrcts_icon_im.png",
+        "イベント紹介": "TypeScript について語る雑談集会です。隔週月曜日、第2, 4月曜日に開催しています。\r\nフロントエンド⁄バックエンド⁄ネイティブ問わず、 TypeScript に興味のある人同士で集まりましょう。"
+    },
+    {
+        "ジャンル": "学術系",
+        "曜日": "月曜日",
+        "イベント名": "VRC数学同好会｜みんなで解く算数・数学",
+        "開始時刻": "21:00",
+        "開催周期": "毎週",
+        "主催・副主催": "出居ヒビキ",
+        "Join先": "https://vrchat.com/home/group/grp_99d7864b-f10e-4333-aaae-d4c4e092b4ff",
+        "Discord": "https://discord.gg/YWKAFW9dbx",
+        "Twitter": "https://x.com/VRMathLOVE2025",
+        "ハッシュタグ": "#VRChat #数学 #演習",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/VRC%E6%95%B0%E5%AD%A6%E5%90%8C%E5%A5%BD%E4%BC%9A-1000_ASBoQ5G.jpeg",
+        "イベント紹介": "手を動かして数学を学び直すイベントです！\r\n\r\n算数・数学を学び直したい人、問題を解くのが好きな人が集まって、実際に手を動かしながら考えるVRC内の数学同好会です。\r\n\r\nイベントに参加される皆さま向けのご案内\r\n\r\n・本イベントの目的は、参加者が数学の問題を解き、学びあう時間を共にすることです。\r\n・本イベント内で、中学レベルの数学の問題を１～２題掲示します。\r\n・掲示された問題でわからないところがあれば、参加者同士で教え合っていきましょう。\r\n・本イベントの参加者は、数学の理解度が異なることをご理解ください。\r\n・本イベントでは、出典を明示のうえ教育目的で問題を扱います。権利者様からの申し出があれば速やかに対応します。"
     },
     {
         "ジャンル": "学術系",
@@ -161,10 +231,10 @@
         "開催周期": "毎週",
         "主催・副主催": "VR酔い訓練集会運営・HOZUKI Roy",
         "Join先": "https://vrchat.com/home/group/grp_4fc8ebc1-4b6d-47eb-ad9a-7cb64af77ae1/settings",
-        "Discord": "https://t.co/ChtAY5mF2G",
+        "Discord": "https://discord.gg/yMfgrHCCyh",
         "Twitter": "https://www.fanbox.cc/@vrtrain",
         "ハッシュタグ": "#VR酔い訓練集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/VRT-1000-1000-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/VRT-1000.jpeg",
         "イベント紹介": "26億人のVR酔い人類を解放したい集い。"
     },
     {
@@ -178,22 +248,22 @@
         "Discord": "",
         "Twitter": "https://x.com/GONBEEE_project",
         "ハッシュタグ": "#XR開発者集会",
-        "ポスター": null,
+        "ポスター": "https://data.vrc-ta-hub.com/poster/XR0316.jpeg",
         "イベント紹介": "毎月たぶん第4月曜日開催！XRコンテンツの開発者・関係者をお呼びして、XRコンテンツ制作について登壇・議論するイベントです。\r\n現実世界のXRエンジニアと、技術系VRChatterの架け橋となるようなイベント、、、にしていきたいな！"
     },
     {
         "ジャンル": "技術系",
         "曜日": "月曜日",
-        "イベント名": "アバターホビー集会",
+        "イベント名": "アバターグッズ製作集会",
         "開始時刻": "21:30",
-        "開催周期": "隔週(グループA)",
+        "開催周期": "隔週",
         "主催・副主催": "そむにうむ＠森山",
         "Join先": "https://vrchat.com/home/user/usr_e676020e-3c86-42a2-8d34-943e38e9e94c",
-        "Discord": "https://discord.com/invite/M3996Mc",
+        "Discord": "https://discord.gg/m86MCZasr9",
         "Twitter": "https://x.com/Somnium",
-        "ハッシュタグ": "",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/Poster20240628_001-1000.jpeg",
-        "イベント紹介": "アバターのフィギュア化を始めをして、メタバース・アバター文化に関する様々なクリエイティブの可能性を語る集会です。\r\nアバターフィギュアや制作物を作ってみたい人・興味のある人・VRChat初心者飲迎します。"
+        "ハッシュタグ": "#メタバース3Dプリント計画 #VRChat #アバターフィギュア #AvatarStation #AvaFigMaker",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/Poster20250608_002-1000.jpeg",
+        "イベント紹介": "メタバースからアバターやワールド＆アイテムを現実世界に召喚し、グッズとして頒布できるようにする技術やアイデア＆工作ノウハウを共有し実践する集会です。メタバースグッズ化アプリ「AvaFigMaker」の最新開発状況や皆さんのグッズ作品の紹介そして雑談を中心としてゆるーく活動していきます。皆さんお気軽にご参加ください。"
     },
     {
         "ジャンル": "学術系",
@@ -220,13 +290,13 @@
         "Discord": "https://discord.gg/8ErchaWwXN",
         "Twitter": "https://x.com/Alnote_",
         "ハッシュタグ": "#論文紹介集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/ryonbun-1000-1000_gw3BVHf.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/ryonbun.png",
         "イベント紹介": "隔週月曜日21:00から、主催の趣味的論文紹介をおこなっています。\r\n範囲はVR系、画像処理系を中心に、幅広く紹介しています。"
     },
     {
         "ジャンル": "技術系",
         "曜日": "火曜日",
-        "イベント名": "C# Tokyo もくもく会",
+        "イベント名": "C# Tokyo VRもくもく会",
         "開始時刻": "21:00",
         "開催周期": "2～3週間に1度",
         "主催・副主催": "suusanex（須藤）・mishizaki",
@@ -234,7 +304,7 @@
         "Discord": "",
         "Twitter": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
         "ハッシュタグ": "#csharptokyo",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000-1000-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000.jpeg",
         "イベント紹介": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com"
     },
     {
@@ -248,8 +318,22 @@
         "Discord": "https://discord.gg/ZCnUCmncDK",
         "Twitter": "https://x.com/vrc_cpu_science",
         "ハッシュタグ": "#CS集会 #VRC_CS集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/cs-1000-1000-1000-1000-1000-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/cs.jpeg",
         "イベント紹介": "コンピュータサイエンスを、話したい！聞きたい！知識を共有したい！広くCSのお話したい人みんなあつまれー!!!!"
+    },
+    {
+        "ジャンル": "技術系",
+        "曜日": "火曜日",
+        "イベント名": "VRChat.rb",
+        "開始時刻": "22:00",
+        "開催周期": "隔週",
+        "主催・副主催": "いとじゅん",
+        "Join先": "https://vrc.group/VRCRB.9912",
+        "Discord": "https://discord.com/invite/5CTUgWjN5D",
+        "Twitter": "https://x.com/itojum1230",
+        "ハッシュタグ": "#vrchatrb",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/VRCRB_-1000.jpeg",
+        "イベント紹介": "Rubyに関係したりしなかったりする内容を雑談⁄知識共有するコミュニティです。\r\nRubyistやRubyが気になる人、ただ話したい人など、気軽にご参加ください。"
     },
     {
         "ジャンル": "技術系",
@@ -262,7 +346,7 @@
         "Discord": "https://discord.gg/s6JhuGjZpp",
         "Twitter": "https://x.com/D_Na_mi3",
         "ハッシュタグ": "#VRCデザイン集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/2412design_pos2048-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/2412design_pos2048-1000.jpeg",
         "イベント紹介": "VRChatデザイン集会は、デザインのあれこれについて気軽に話せるイベントです。\r\nなんらかのデザインをつくっている人はもちろん、デザインの依頼を考えている方、デザインのことが気になるという方など、どなたでもご自由にご参加ください。"
     },
     {
@@ -276,7 +360,7 @@
         "Discord": "",
         "Twitter": "https://x.com/forespecs",
         "ハッシュタグ": "#VRC博物喫茶",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/mira_HKa_3-1000-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/mira_HKa_3-1000.jpeg",
         "イベント紹介": "生物・文化・言語・考古・科学史・産業史などなど…博物学・博物館っぽい事を雑談するイベントです。\r\n博物学っぽい事が好きな方ならどなたでも大歓迎です！奮ってご参加下さい!!"
     },
     {
@@ -318,7 +402,7 @@
         "Discord": "",
         "Twitter": "",
         "ハッシュタグ": "#黒猫雑学カフェ",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/NightCafe-1000-1000-1000_7792EB2-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/NightCafe-1000.jpeg",
         "イベント紹介": "意見交換と知見の共有を行う対話イベントです。"
     },
     {
@@ -334,6 +418,20 @@
         "ハッシュタグ": "#ML集会",
         "ポスター": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
         "イベント紹介": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。"
+    },
+    {
+        "ジャンル": "学術系",
+        "曜日": "水曜日",
+        "イベント名": "VRC数学談話会",
+        "開始時刻": "21:00",
+        "開催周期": "隔週",
+        "主催・副主催": "Metachick_2021",
+        "Join先": "https://vrchat.com/home/group/grp_81b70938-a1fe-4b28-b40e-b9c772de3c8d",
+        "Discord": "",
+        "Twitter": "https://x.com/VRCmathLT",
+        "ハッシュタグ": "#VRC数学談話会",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/VRCmath%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%B8%A6-1000.jpeg",
+        "イベント紹介": "VRChat上のカジュアル数学LTイベント、VRC数学談話会へようこそ！\r\n\r\n大学数学をベースにしつつ、興味さえあれば誰でも参加できるゆる～い談話会を目指しています。\r\n専門的な厳密性よりも、お気持ちや直感的な共有を大切にして交流しましょう！"
     },
     {
         "ジャンル": "学術系",
@@ -360,7 +458,7 @@
         "Discord": "https://discord.gg/umnscaPNcy",
         "Twitter": "https://x.com/vrwebtechorg",
         "ハッシュタグ": "#Web技術集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/poster_a4-1000.jpeg",
         "イベント紹介": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。"
     },
     {
@@ -369,12 +467,12 @@
         "イベント名": "アバター改変なんもわからん集会",
         "開始時刻": "22:00",
         "開催周期": "隔週水曜日",
-        "主催・副主催": "CHIHAYA⛩ちはや＆bd_",
+        "主催・副主催": "よぜ［4oZEF］",
         "Join先": "https://vrc.group/WAKRAN.0505",
-        "Discord": "https://discord.gg/7hjZwpWdUW",
+        "Discord": "https://discord.gg/JnjV5SQeq2",
         "Twitter": "https://x.com/wakaran_vrc",
         "ハッシュタグ": "#アバター改変なんもわからん集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/kaihen-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E6%94%B9%E5%A4%89%E3%81%AA%E3%82%93%E3%82%82%E3%82%8F%E3%81%8B%E3%82%89%E3%82%93%E9%9B%86%E4%BC%9A_%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20260320.png",
         "イベント紹介": "イベントは、隔週水曜日に開催され、講師による講演会と何でも質問できる交流会を交互に行っています。講師の方々は、プログラマーや経験豊富なクリエイターであり、彼らの知識と経験を共有することで、皆さんのスキル向上に役立てています。イベントはグループインスタンスで行われ、2つのインスタンスで同時に進行します。講演会の後は、本イベントのメインとなる「アバター改変なんもわからん交流会」に移り、参加者同士が自由に交流し、疑問点を相談し合います。この交流会は、温かい雰囲気の中で、初心者も安心して参加できる場です。"
     },
     {
@@ -388,8 +486,22 @@
         "Discord": "",
         "Twitter": "https://x.com/kokudo_hikari",
         "ハッシュタグ": "#VRCブラックホール集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/VRCBlackHoleShukai-1000-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/VRCBlackHoleShukai-1000.jpeg",
         "イベント紹介": "宇宙最強の常識外れの天体「ブラックホール」\r\nその魅力に引き寄せられたものが集う集会！\r\n\r\n天文学や宇宙物理学やSFなど宇宙に関する幅広い話題について語り合う雑談系イベントです！宇宙や物理学について全く詳しくなくてもOK！初心者大歓迎です！\r\n\r\nブラックホールで焼肉したりマシュマロ焼けるギミックがあります"
+    },
+    {
+        "ジャンル": "学術系",
+        "曜日": "水曜日",
+        "イベント名": "剣術研究会",
+        "開始時刻": "21:30",
+        "開催周期": "毎週",
+        "主催・副主催": "桜庭なつ",
+        "Join先": "https://vrc.group/JSSV.2092",
+        "Discord": "https://discord.gg/tuqBDxs3VT",
+        "Twitter": "https://x.com/VRCkenjutu",
+        "ハッシュタグ": "#VRC剣術研究会",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BCA4-1000_IMDVv3v.jpeg",
+        "イベント紹介": "VRC剣術研究会 はVRChatでの古武術紹介団体として、初心者から経験者まで広範囲に剣術をはじめとする様々な伝統文化やその発展形に触れる機会を作っていくことを目指す場所です。剣術を知ることで、日常生活における心構えや健康的な身体操作、さらにはVR内での見栄えの良い動作や日本刀の所作を学ぶことができます。イベントに参加すれば明日から立派なサムライになれるかも？"
     },
     {
         "ジャンル": "学術系",
@@ -402,7 +514,7 @@
         "Discord": "https://discord.gg/HvDg4HaAvD",
         "Twitter": "https://x.com/vrc_ayashibi",
         "ハッシュタグ": "#VRC怪し火",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/%E6%80%AA%E3%81%97%E7%81%AB%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/%E6%80%AA%E3%81%97%E7%81%AB%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000.jpeg",
         "イベント紹介": "妖怪・怪異・オカルト・怪談・民俗学などに興味がある人たちが集う雑談イベントです。\r\nあまり詳しくなくても興味がある方であれば大歓迎です。"
     },
     {
@@ -436,16 +548,16 @@
     {
         "ジャンル": "技術系",
         "曜日": "木曜日",
-        "イベント名": "OSS集会（オープンソースソフトウェア集会）",
+        "イベント名": "VRC TouchDesigner勉強会",
         "開始時刻": "22:00",
-        "開催周期": "隔週(グループA)",
-        "主催・副主催": "のりちゃん",
-        "Join先": "https://vrc.group/KKS.7293",
-        "Discord": "https://discord.gg/k8FPwtZ4fs",
-        "Twitter": "https://x.com/noricha_vr",
-        "ハッシュタグ": "#OSS集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/oss-1000.jpeg",
-        "イベント紹介": "OSS（オープンソースソフトウェア）集会\r\nVRChat用に開発しているシステムのソースコードをみんなで眺めたり、デバッグしたり、意見を出し合う集会です。個人開発集会の跡地を利用するのでエンジニアがたくさん集まってます。\r\nプログラミング好きの方はぜひ遊びに来てね(^^)v"
+        "開催周期": "隔週",
+        "主催・副主催": "Noi",
+        "Join先": "",
+        "Discord": "https://discord.gg/UJPdPwuPpF",
+        "Twitter": "https://x.com/N0i777",
+        "ハッシュタグ": "",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/TDbennkyoukai.jpeg",
+        "イベント紹介": "この勉強会は、VRChat上でカジュアルにTouchDesignerについて学んだこと、発見したことを発表していくイベントです！\r\nTouchDesignerの経験値は問いません。些細なことでも自分にとっての発見があれば気軽に発表してください！\r\nUnityやUEなど他アプリケーションとの連携や、GLSLなどの話も大歓迎です⭕"
     },
     {
         "ジャンル": "技術系",
@@ -458,11 +570,11 @@
         "Discord": "https://discord.gg/U4GJPhuZ8S",
         "Twitter": "https://x.com/dsGathering_vrc",
         "ハッシュタグ": "#DS集会VRC",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_5a5KvT3.jpeg",
-        "イベント紹介": "データサイエンティスト集会(以下DS集会)はVRChat内でデータサイエンティストやデータサイエンスに興味ある人、初心者が集まって交流する定期イベントです。隔週木曜21時から開催しており、時にはデータサイエンスにちなんだLT企画も行っています。\r\n\r\nコロナウイルスの影響でリアルでのオフラインイベントが急減し、代わりにオンラインイベントが開催されるようになりました。しかしビデオ通話などでの交流会はやりとりがし辛く、それが理由に社外のDSとの交流が減ってはいないでしょうか？\r\n\r\nそうした不便さから、さながらオフラインイベントのような雰囲気で交流できる場を目指し、先代が22年4月からDS集会が始まりました。\r\n\r\n今ではVRChat内で唯一のデータサイエンス系コミュニティとして、多くの知識交流の場となっています。最近ではデータサイエンスだけでなくデータエンジニアリングや統計などのテーマでも交流されるようになりました。\r\n「身近にデータサイエンスについて相談できる知り合いがいない」、「社外のDSと交流してみたい」といった方は、もしご興味ありましたらご参加をお待ちしております。"
+        "ポスター": "https://data.vrc-ta-hub.com/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_%E5%A4%96%E9%83%A8%E7%94%A8-1000.jpeg",
+        "イベント紹介": "データサイエンティスト集会(以下DS集会)はVRChat内でデータサイエンティストやデータサイエンスに興味ある人、初心者が集まって交流する定期イベントです。隔週木曜21時から開催しており、時にはデータサイエンスにちなんだLT企画も行っています。\r\n\r\nデータサイエンスのイベントはリアルでのイベントは地域の制約が強く、オンラインイベントではビデオ通話などでの交流会はやりとりがし辛く、それが理由に社外のDSとの交流は難しいと思われていないでしょうか。\r\nそうした不便さから、さながらオフラインイベントのような雰囲気で交流できる場を目指し、先代が22年4月からDS集会をはじめました。\r\n\r\n今ではVRChat内で唯一のデータサイエンス系コミュニティとして、多くの知識交流の場となっています。最近ではデータサイエンスだけでなくデータエンジニアリングや統計などのテーマでも交流されるようになりました。\r\n「身近にデータサイエンスについて相談できる知り合いがいない」、「社外のDSと交流してみたい」といった方は、もしご興味ありましたらご参加をお待ちしております。"
     },
     {
-        "ジャンル": "技術系",
+        "ジャンル": "その他",
         "曜日": "木曜日",
         "イベント名": "仮想学生集会",
         "開始時刻": "20:00",
@@ -472,21 +584,21 @@
         "Discord": "https://discord.gg/3sWWSFFjXD",
         "Twitter": "https://x.com/@see2et",
         "ハッシュタグ": "#仮想学生集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/Thumbnail_05.08_via_NUMA_WIDE-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/Thumbnail_05.08_via_NUMA_WIDE-1000.jpeg",
         "イベント紹介": "【 #仮想学生集会 開催！】\r\n\r\nバーチャル空間で活躍している学生と、ワクワクすることに取り組んでみたい学生。\r\nそんな人たちが集まってお喋りしながら交流するイベントです！\r\n\r\n開催日時: 毎月第三木曜日\r\n参加方法: JVSLのGroup+にJoin"
     },
     {
         "ジャンル": "技術系",
         "曜日": "木曜日",
         "イベント名": "個人開発集会",
-        "開始時刻": "21:00",
+        "開始時刻": "22:00",
         "開催周期": "隔週(グループA)",
         "主催・副主催": "のりちゃん",
         "Join先": "https://vrc.group/KKS.7293",
         "Discord": "https://discord.gg/k8FPwtZ4fs",
         "Twitter": "https://x.com/noricha_vr",
         "ハッシュタグ": "#個人開発集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaiha_HkUL9Ie.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/HEORjlWbcAAzRle.jpeg",
         "イベント紹介": "個人開発にまつわる話でワイワイする集会です。\r\n個人開発をやっている方も初めてみたい方も大歓迎！ \r\n企画・技術・マーケティング・保守・運用など 技術的なことに限らない幅広い分野を想定しています。 \r\n個人開発に興味がある方はぜひ遊びに来てください！"
     },
     {
@@ -500,7 +612,7 @@
         "Discord": "https://discord.gg/4NTwMMMw9P",
         "Twitter": "https://x.com/yineleyici",
         "ハッシュタグ": "#分散SNS集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/%E5%88%86%E6%95%A3SNS%E9%9B%86%E4%BC%9A-1000_dqGAw8O-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/%E5%88%86%E6%95%A3SNS%E9%9B%86%E4%BC%9A-1000.jpeg",
         "イベント紹介": "普段何気なく使っているSNS。でもその裏側には、様々な工夫や試みが隠されています。そして驚くべきことに、個人でSNSを運営して問題に取り組む人もいるのです。分散SNS集会は、分散SNSにちょっと興味がある人や利用者、運営者が集まって様々な知見を交換し、新しい技術や話題に触れたり、同じ話題や困難を分かち合い、より高めたり、楽しんだり、癒やされたりする場を作ることを目的にしています。あくまで一例ですが、・SNS上の安全のための取り組みについて・コンテンツの責任を誰が持つのか・毒性のあるコンテンツの生成を抑える構造が作れないか…などの話題を提案しています。SNSに関連するお話なら、UI/UXやインフラなども含めて幅広く歓迎しています。話題のMisskeyやBlueskyが気になるという方も、お気軽にご参加ください。"
     },
     {
@@ -528,8 +640,22 @@
         "Discord": "https://discord.gg/bWJ5mrxUNj",
         "Twitter": "https://x.com/Kakuribbon",
         "ハッシュタグ": "#VRCBlender集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000.jpeg",
         "イベント紹介": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！"
+    },
+    {
+        "ジャンル": "学術系",
+        "曜日": "金曜日",
+        "イベント名": "VRCふんわり大学数学 線形代数",
+        "開始時刻": "21:00",
+        "開催周期": "毎週",
+        "主催・副主催": "もこmoko059",
+        "Join先": "https://vrc.group/FWAMAT.1062",
+        "Discord": "https://discord.gg/rCvAJhPCya",
+        "Twitter": "https://x.com/VrcFuwaMath",
+        "ハッシュタグ": "#VRCふわ数",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000.jpeg",
+        "イベント紹介": "理系の大学一年生が最初に学ぶ「線形代数」という科目の長期連続講義イベントです！\r\n\r\n中学数学を説明されてふんわり思い出すぐらいの人想定して授業内容を組み立てておりますが、後半になればなるほど用語が多くなってしまいます。ご容赦ください💦\r\n\r\n内職OK、V睡用のこたつも用意しています。\r\n当日はDiscordからも講義内容を聞けるようにしております。是非ご参加ください！"
     },
     {
         "ジャンル": "技術系",
@@ -570,7 +696,7 @@
         "Discord": "https://discord.gg/dXYXB3EcSN",
         "Twitter": "https://x.com/VRC_insect_",
         "ハッシュタグ": "#VRC昆虫集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/musi-1000-1000-10_SeolDxh.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/musi.jpeg",
         "イベント紹介": "開催曜日: 金曜日\r\n\r\n開催時間: 21:00 - 22:00 or 20:00~22:00\r\n\r\n開催周期:春から秋は月1回 、冬は毎週\r\n\r\n採集や昆虫を話したりする集会"
     },
     {
@@ -584,7 +710,7 @@
         "Discord": "https://discord.gg/5KJrhHMBGN",
         "Twitter": "https://x.com/it_infra_meetup",
         "ハッシュタグ": "#ITインフラ集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/infra.png",
         "イベント紹介": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。"
     },
     {
@@ -600,6 +726,20 @@
         "ハッシュタグ": "#VRC_LT",
         "ポスター": null,
         "イベント紹介": "気軽にテーマを持ち寄ってLT会をしています。\r\nテーマの幅に特に制限をかけていないので、毎回バラエティに富んだ発表を聞くことができます。\r\n過去の発表などは以下のURLから: https://vrc-lt.org/"
+    },
+    {
+        "ジャンル": "学術系",
+        "曜日": "土曜日",
+        "イベント名": "VRChat International Science Community",
+        "開始時刻": "23:30",
+        "開催周期": "隔週",
+        "主催・副主催": "Chamonix_MB",
+        "Join先": "https://vrchat.com/home/group/grp_52d85488-41bc-474b-bc1d-5e758bae8a0e",
+        "Discord": "https://discord.gg/JnqFEubdn2",
+        "Twitter": "https://twitter.com/VISC1569",
+        "ハッシュタグ": "",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/VIPC_p_0JkLBS6.png",
+        "イベント紹介": "Let's talk about science!\r\nWe hold LTs (Lightning Talks) hosted by group members about once every two weeks.\r\nFeel free to join usǃ There's absolutely no need to worry about not knowing anyone of the existing members․\r\nWe wish you a fruitful exchange․\r\n\r\nExpected Level: University student (Year 1-2 undergraduate) level \r\nField: Natural science (Physics, Chemistry, etc.)\r\n\r\nTime: For 30 min from Sat 14:30 UTC (6:30 PST, 9:30 EST, 15:30 CET, 23:30 JST)\r\nLanguage: English\r\n\r\n【Short description in Japanese】\r\nさめさん主催のVRChat物理学集会の国際版集会です．使用言語は英語のみです．もちろんメンバーの中には日本語が分からない方もたくさんいます．英語の発表を練習したい物理学系の方歓迎です！"
     },
     {
         "ジャンル": "技術系",
@@ -630,6 +770,20 @@
         "イベント紹介": "「VRホビーロボット集会」は2020年10月より毎月開催しているモノづくり系集会で、モノづくりに興味のある方は誰でも歓迎のオープンな集会です。直近の技術系話題について雑談したり、技術系イベントや作品の進捗報告等など自由に交流しています。また、世界最大のVRイベントVirtual Market（通称Vket）に合わせて年2回「ニソコンVR」というVR上のロボコンを開催しています。このニソコンVRの優勝者にはリアルでの二足歩行ロボットコンテスト「ROBO-ONE」シード権が賞品として贈られるほか、御協賛頂いた企業より賞品が入賞者に送られるものとなっております。\r\nその他、Vketへの出展、リアルのモノづくり系イベントMaker Faire Tokyo等々、VRとリアルにまたがった活動を行っています。\r\n集会は毎月最終土曜21時より開催。フレプラでインスタンスを立てていますので、主催者「garugaki」にJOINしてください。たまに日付が変わることもありますので最新情報はツイッター@nisoconVRをチェックをお願いします。"
     },
     {
+        "ジャンル": "技術系",
+        "曜日": "土曜日",
+        "イベント名": "VR核融合コミュニティ Virtual Fusion Nexus",
+        "開始時刻": "21:00",
+        "開催周期": "不定期",
+        "主催・副主催": "Hasegas",
+        "Join先": "https://vrc.group/VFN.4251",
+        "Discord": "https://discord.gg/sdE5qjeGy3",
+        "Twitter": "https://x.com/VRFusionNexus",
+        "ハッシュタグ": "#VirtualFusionNexus",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/tate_white-1000.jpeg",
+        "イベント紹介": "VRChat上で活動する核融合コミュニティVirtual Fusion Nexus (VFN)です。VR核融合炉ツアーや核融合ライトニングトーク会といった核融合・フュージョンエネルギーに関わるイベントを不定期開催します。"
+    },
+    {
         "ジャンル": "学術系",
         "曜日": "土曜日",
         "イベント名": "「計算と自然」集会",
@@ -650,11 +804,11 @@
         "開始時刻": "21:00",
         "開催周期": "隔週",
         "主催・副主催": "@kumama_nui",
-        "Join先": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
+        "Join先": "https://vrchat.com/home/group/grp_19699ea4-5c6c-4dc0-91c8-139c103d863c",
         "Discord": "http://discord.gg/7EReqAK5Tk",
         "Twitter": "https://x.com/kumama_nui",
         "ハッシュタグ": "#SecVRC",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000-1000-1000.jpeg",
         "イベント紹介": "セキュリティやCTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。"
     },
     {
@@ -662,13 +816,13 @@
         "曜日": "土曜日",
         "イベント名": "バックエンド集会",
         "開始時刻": "22:00",
-        "開催周期": "第1土曜日または第2土曜日",
+        "開催周期": "隔週土曜日",
         "主催・副主催": "かるだん",
         "Join先": "https://vrchat.com/home/user/usr_d7255c9c-1449-4042-958c-e323801667d8",
         "Discord": "https://discord.gg/4jBzMFashh",
         "Twitter": "",
         "ハッシュタグ": "#バックエンド集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/backend.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/Backend-meetup-1000_IOXPXKO.jpeg",
         "イベント紹介": ""
     },
     {
@@ -682,7 +836,7 @@
         "Discord": "https://discord.gg/7bKUrQecjm",
         "Twitter": "https://x.com/ManagementMeet",
         "ハッシュタグ": "#マネジメント集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/management-1000-1000-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/management.jpeg",
         "イベント紹介": "マネジメント集会は、「人間、誰しもがマネージャーだ！」という標語の元、様々な管理にかかわるトピックについて登壇発表会を行った後に自由交流という流れで運営している集会です。\r\n現役経営者のねこどす、ガチ講師あんでぃ、企業参謀Kultzとライフプランがエグいmadaoが運営しながら、様々な方の登壇を受け付けております。\r\n是非、お気軽にお越しください。\r\nなお、アーカイブは、内容の価値などを鑑みた諸々の事情により基本公開しておりません。"
     },
     {
@@ -696,7 +850,7 @@
         "Discord": "https://t.co/bZ70vyhL14",
         "Twitter": "",
         "ハッシュタグ": "#VRC株式投資座談会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/stockinvestment.png",
         "イベント紹介": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。"
     },
     {
@@ -716,6 +870,20 @@
     {
         "ジャンル": "技術系",
         "曜日": "その他",
+        "イベント名": "NuNu_Quantum【VRC量子コンピューティング系学術集会】",
+        "開始時刻": "21:00",
+        "開催周期": "不定期",
+        "主催・副主催": "NUNUPI",
+        "Join先": "https://vrchat.com/home/group/grp_ad1356bc-ae44-4483-8409-d0c69585b296/events",
+        "Discord": "https://discord.gg/qSHHrU4Q",
+        "Twitter": "https://x.com/home",
+        "ハッシュタグ": "#NuNu_Quantum",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/NuNu_QuantumVRC%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%B3%BB%E5%AD%A6%E8%A1%93%E9%9B%86%E4%BC%9A%EF%BD%84.jpeg",
+        "イベント紹介": "【VRC量子コンピューティング系学術集会】\r\n2026年3月21日(土) 21時スタート\r\n\r\n第一回テーマ\r\n量子計算とAIの共通言語\r\nテンソルネットワーク\r\n\r\n登壇者\r\n弦本スージーさん"
+    },
+    {
+        "ジャンル": "技術系",
+        "曜日": "その他",
         "イベント名": "RadeonVRの会",
         "開始時刻": "22:00",
         "開催周期": "不定期",
@@ -724,7 +892,7 @@
         "Discord": "https://discord.gg/XtMhhtw5RK",
         "Twitter": "https://x.com/RadeonVR_jp",
         "ハッシュタグ": "#RadeonVRの会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/note_header-1000_P8oYBNP-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/note_header-1000.jpeg",
         "イベント紹介": "RadeonVRの会は、VRChat(VRSNS、VRゲーム)でRadeonを使っているユーザーの互助会です。\r\nVR用にRadeonを購入される前のご相談や、使用時にお困りごとが出てきた際にはサーバーの有志がサポートいたします！"
     },
     {
@@ -738,7 +906,7 @@
         "Discord": "https://discord.gg/hM5dpGaWgB",
         "Twitter": "",
         "ハッシュタグ": "#UIUXデザイン集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/uiux-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/uiux.jpeg",
         "イベント紹介": "Webで！ゲームで！業務システムで！皆さんの経験したクソUI・神UIなお話を飲み会感覚でお気軽にお聞かせください！"
     },
     {
@@ -752,7 +920,7 @@
         "Discord": "https://discord.gg/ZjHz6wGkwx",
         "Twitter": "",
         "ハッシュタグ": "#VRCバイオ",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/391f0c21dfcd8b44-1000-1000-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/391f0c21dfcd8b44-1000.jpeg",
         "イベント紹介": "普段読めない生物系論文をだいたい30分くらいで理解しちゃう #VRCバイオ  ! \r\n医学生物学系のオープンアクセス (いわゆるCCライセンス) の論文をみんなで読むという集会を\r\n毎月8のつく日にやってます！\r\n話を聞きたいだけ、見てみたいだけという人も大歓迎！\r\n毎回遅くても前日には次読む論文を共有しているため、興味がある内容の時だけでも良かったぜひ！\r\n読みたい/読んでほしい論文があったらDiscordまで相談に来てもらえると嬉しいです！"
     },
     {
@@ -772,6 +940,20 @@
     {
         "ジャンル": "学術系",
         "曜日": "その他",
+        "イベント名": "VRChat博士集会",
+        "開始時刻": "21:00",
+        "開催周期": "不定期開催 (半年に1回の開催を考えています)",
+        "主催・副主催": "真名海さめ",
+        "Join先": "",
+        "Discord": "https://discord.gg/3RSXJGbUAg",
+        "Twitter": "https://x.com/SaMeGiraffe_VRC",
+        "ハッシュタグ": "#VRChat博士集会",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/%E5%8D%9A%E5%A3%AB%E9%9B%86%E4%BC%9A%E3%83%9B%E3%82%B9%E3%82%BF%E3%83%BC-1000_IiKN0wY.jpeg",
+        "イベント紹介": "博士および博士候補者が集まり、\r\n・ 自分の研究\r\n・ 普段の生活\r\n・ 悩みや相談\r\n・ キャリア\r\nなどについて語り合う集会です。\r\n\r\n集会はGroupインスタンスで行います\r\nDiscordサーバーで自己紹介をしていただき、\r\n主催の承認後、VRChat Groupへの案内を送ります。\r\n\r\nℹ️ 参加条件\r\n日本語を母国語とする\r\n・ 博士号保持者\r\n・ 博士課程在学者\r\n・ 博士課程在学経験者 (単位取得退学など)\r\n・ 博士課程への進学を真剣に考えている大学生、大学院生、高専生、社会人"
+    },
+    {
+        "ジャンル": "学術系",
+        "曜日": "その他",
         "イベント名": "VRC海洋学研究会",
         "開始時刻": "21:00",
         "開催周期": "不定期",
@@ -780,8 +962,8 @@
         "Discord": "https://discord.gg/rzaCyd3Gs3",
         "Twitter": "https://x.com/cramer6114",
         "ハッシュタグ": "#VRC海洋学",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/203D8717-CAA8-4223-8D62-CC72D910CFB4-1000-1000-1000.jpeg",
-        "イベント紹介": "せっかくこの星に生まれたのなら，海洋学聞いていきませんか？？\r\n\r\nVRChatで活動する海洋学コミュニティです．\r\n海洋や海洋学に関するイベントの開催，海洋学博物館プロジェクトを行っています．\r\n\r\n海洋をもっと楽しく面白く\r\n4/13 21時から 第一回イベント キックオフミーティング 開催予定"
+        "ポスター": "https://data.vrc-ta-hub.com/poster/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%9A2025%E5%86%AC_%E3%82%AF%E3%83%A9%E3%83%A1%E3%83%AB-1000.jpeg",
+        "イベント紹介": "せっかくこの星に生まれたのなら，海洋学聞いていきませんか？？\r\n\r\nVRChatで活動する海洋学コミュニティです．\r\n海洋や海洋学に関するイベントの開催，海洋学博物館プロジェクトを行っています．"
     },
     {
         "ジャンル": "技術系",
@@ -794,35 +976,21 @@
         "Discord": "https://discord.gg/VDQMrAb",
         "Twitter": "",
         "ハッシュタグ": "#VRC競プロ部",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/kyopro-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/kyopro.png",
         "イベント紹介": "「VRC競プロ部」は、競技プログラミング（競プロ）をしている人が交流したり情報交換をする場です。\r\n\r\n「VRC競プロ部」では、AtCoderが開催する「AtCoder Beginner Contest」(土曜 or 日曜 21:00-22:40)が終わったあと、\r\n当日23:00からコンテストの参加者で振り返りと解説をする「ABC感想会」を開催しています。\r\n「競プロを楽しく継続できる場」を目指して開催しているため、参加する人の状況に合わせて話をする内容を変えていますので、\r\n初めてコンテストに参加した方も歓迎しています！\r\n他にも、部員内で勉強会や作問が不定期に企画され開催されています。\r\n競プロやってる方はもちろん、興味があって初めたい方、一緒に競プロをやる仲間がほしい方の参加を歓迎しています！"
     },
     {
         "ジャンル": "技術系",
         "曜日": "その他",
-        "イベント名": "VR核融合コミュニティ Virtual Fusion Nexus",
-        "開始時刻": "21:00",
-        "開催周期": "不定期",
-        "主催・副主催": "Hasegas",
-        "Join先": "https://vrc.group/VFN.4251",
-        "Discord": "",
-        "Twitter": "https://x.com/VRFusionNexus",
-        "ハッシュタグ": "#VirtualFusionNexus",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/4_noGrow_withGradModerate_white-1000-1000-1000_O8dMGY2.jpeg",
-        "イベント紹介": "VRChat上で活動する核融合コミュニティVirtual Fusion Nexus (VFN)です。VR核融合炉ツアーや核融合ライトニングトーク会といった核融合・フュージョンエネルギーに関わるイベントを不定期開催します。"
-    },
-    {
-        "ジャンル": "技術系",
-        "曜日": "その他",
         "イベント名": "VR研究Cafe",
-        "開始時刻": "21:00",
+        "開始時刻": "21:30",
         "開催周期": "月３回、10/20/30日開催",
-        "主催・副主催": "jumius, Sho Hase, faruco10032, _kondo",
+        "主催・副主催": "jumius, Sho Hase, faruco10032, _kondo, VC_Sakurada",
         "Join先": "https://vrchat.com/home/group/grp_46cdc1c8-0b8f-4c7b-8312-52d70df7188c",
         "Discord": "https://discord.gg/bynAkPg3Cs",
         "Twitter": "",
         "ハッシュタグ": "#VR研究Cafe",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/VR%E7%A0%94%E7%A9%B6Cafe-1000-1000-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/VR%E7%A0%94%E7%A9%B6Cafe-1000.jpeg",
         "イベント紹介": "VR研究について雑談する集会です！広くVR研究に関連する技術やトピックについてもお話しています。"
     },
     {
@@ -842,7 +1010,7 @@
     {
         "ジャンル": "学術系",
         "曜日": "その他",
-        "イベント名": "だいたいで分かる政治経済",
+        "イベント名": "だいたい政治経済",
         "開始時刻": "22:00",
         "開催周期": "だいたい隔週",
         "主催・副主催": "北川梨之助",
@@ -850,22 +1018,8 @@
         "Discord": "",
         "Twitter": "https://x.com/VRCSCA",
         "ハッシュタグ": "#VRCSCA",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/%E3%81%A0%E3%81%84%E3%81%9F%E3%81%84%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E6%94%BF%E6%B2%BB%E7%B5%8C%E6%B8%88-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/%E3%81%A0%E3%81%84%E3%81%9F%E3%81%84%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E6%94%BF%E6%B2%BB%E7%B5%8C%E6%B8%88-1000_hNj8B0a.jpeg",
         "イベント紹介": "政治経済に関心がある人たちで集まり気軽に話そうというイベントです。\r\n話題提供として前半に講話を行い、後半に座談会を行います。\r\n途中参加途中離脱OKなのでお時間ある方は是非ご参加ください。\r\n\r\n開催日時は不定期ですので事前に公式Twitterの告知を必ずご確認ください。\r\n\r\n参加方法：VRC社会文化協会のグループインスタンスを開きますのでお時間になったらJoinしてください。\r\n開催直後のグループ参加は難しい可能性がありますので事前の参加をお勧めします。\r\nhttps://vrchat.com/home/group/grp_9bee651c-2ed0-4cd4-abf8-cfc56f332b23"
-    },
-    {
-        "ジャンル": "その他",
-        "曜日": "その他",
-        "イベント名": "シェーダー集会",
-        "開始時刻": "21:00",
-        "開催周期": "隔週(グループA)",
-        "主催・副主催": "Nunu_3060",
-        "Join先": "",
-        "Discord": "",
-        "Twitter": "",
-        "ハッシュタグ": "",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster-1000_Y03czl4-1000-1000-1000-1000.jpeg",
-        "イベント紹介": ""
     },
     {
         "ジャンル": "技術系",
@@ -878,8 +1032,22 @@
         "Discord": "",
         "Twitter": "https://x.com/Kuroly7",
         "ハッシュタグ": "#セクシーサイエンス",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/1_-1000_btxaI3d-1000-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/1_-1000.jpeg",
         "イベント紹介": "初心者向けの内容なので意外にも知的好奇心が満たされちゃうかも？😮"
+    },
+    {
+        "ジャンル": "その他",
+        "曜日": "その他",
+        "イベント名": "メタリエ (metariea)",
+        "開始時刻": "22:00",
+        "開催周期": "10週",
+        "主催・副主催": "メタリエ",
+        "Join先": "https://t.co/hyeisrgmJm",
+        "Discord": "",
+        "Twitter": "https://x.com/metariea",
+        "ハッシュタグ": "",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/Metariea_Poster_for_Fujiyama_Ads-1000.jpeg",
+        "イベント紹介": "メタリエ (metariea) はVRChatを中心に学びのマッチングを推進している組織です。実生活で役立つ知識やスキルの学びに興味のある方は、是非公式Xアカウントフォローしてください（https://x.com/metariea）"
     },
     {
         "ジャンル": "技術系",
@@ -892,7 +1060,7 @@
         "Discord": "https://t.co/DiVOz58oZO",
         "Twitter": "https://x.com/distributesys",
         "ハッシュタグ": "#分散システム集会",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/561ce2c1aa1f0dd132ada9474d306e1d-1000_RRhZf5U-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/561ce2c1aa1f0dd132ada9474d306e1d-1000.jpeg",
         "イベント紹介": "主にVRChat上で分散システムに関する集会を行っています"
     },
     {
@@ -906,7 +1074,7 @@
         "Discord": "http://discord.gg/3E9wdC6qZq",
         "Twitter": "https://x.com/vsp_vrc",
         "ハッシュタグ": "#天文仮想研究所",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/poster/VSPPoster0331-1000-1000.jpeg",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/VSPPoster0331-1000.jpeg",
         "イベント紹介": "天文宇宙に関する解説会や、雑談会・ライトニングトーク会を行っています。\r\nどなたでもお気軽にご参加ください。（聞くだけ・見るだけOKです！）\r\n集会の模様は、VSP公式YouTubeチャンネルにて一部公開しています。\r\nhttps://www.youtube.com/@VirtualSpaceProgram\r\n\r\n<天文仮想研究所とは>\r\nVR空間で活動する宇宙同好会（任意団体）です。\r\nバーチャルリアリティ技術を用いて天文学や宇宙開発等に関する活動を行い、\r\n参加者の興味・関心を高めるとともに、天文学や宇宙開発を楽しむことを目的としています。\r\n公式Web:  https://virtualspaceprogram.org/"
     }
 ]
