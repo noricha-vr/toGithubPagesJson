@@ -1,25 +1,24 @@
 name: Scheduled Data Fetch
 
 on:
-  # schedule:
-  #   - cron: '30 * * * *'
-  workflow_dispatch:  # 手動実行のみを許可
+  schedule:
+    - cron: '0 0 */3 * *'  # 3日に1回 UTC 0:00（JST 9:00）
+  workflow_dispatch:
 
 jobs:
   fetch-and-save:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
 
     - name: Install dependencies
-      run: |
-        pip install requests
+      run: pip install -r requrements.txt
 
     - name: Fetch and convert data
       run: python3 fetch_data.py
@@ -28,7 +27,7 @@ jobs:
       run: python3 test_format.py
 
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
+      uses: peaceiris/actions-gh-pages@v4
       if: github.ref == 'refs/heads/main'
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
