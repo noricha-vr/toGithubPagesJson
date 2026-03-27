@@ -21,8 +21,11 @@ jobs:
       run: |
         pip install requests
 
-    - name: Run script
-      run: bash update.sh
+    - name: Fetch and convert data
+      run: python3 fetch_data.py
+
+    - name: Validate JSON format
+      run: python3 test_format.py
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
