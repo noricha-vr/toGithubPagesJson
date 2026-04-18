@@ -2,7 +2,7 @@ name: Scheduled Data Fetch
 
 on:
   schedule:
-    - cron: '0 0 */3 * *'  # 3日に1回 UTC 0:00（JST 9:00）
+    - cron: '0 0 * * *'  # 1日に1回 UTC 0:00（JST 9:00）
   workflow_dispatch:
 
 jobs:
