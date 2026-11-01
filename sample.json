@@ -72,20 +72,6 @@
     {
         "ジャンル": "技術系",
         "曜日": "日曜日",
-        "イベント名": "VR核融合コミュニティ Virtual Fusion Nexus",
-        "開始時刻": "20:30",
-        "開催周期": "単発",
-        "主催・副主催": "Hasegas",
-        "Join先": "https://vrchat.com/home/group/grp_7eda56d4-9538-4e9f-901d-f337092381c8",
-        "Discord": "https://discord.gg/sdE5qjeGy3",
-        "Twitter": "https://x.com/VRFusionNexus",
-        "ハッシュタグ": "#VirtualFusionNexus",
-        "ポスター": "https://data.vrc-ta-hub.com/poster/tate_white-1000.jpeg",
-        "イベント紹介": "VRChat上で活動する核融合コミュニティVirtual Fusion Nexus (VFN)です。VR核融合炉ツアーや核融合ライトニングトーク会といった核融合・フュージョンエネルギーに関わるイベントを不定期開催します。"
-    },
-    {
-        "ジャンル": "技術系",
-        "曜日": "日曜日",
         "イベント名": "ゲーム開発集会Ⅳ",
         "開始時刻": "21:00",
         "開催周期": "隔週",
@@ -656,6 +642,20 @@
         "ハッシュタグ": "#VRC微分音集会",
         "ポスター": "https://data.vrc-ta-hub.com/poster/1000017990-1000_JgVxzff.jpeg",
         "イベント紹介": "毎月最初の金曜日に開催。微分音・Xenharmonicといった西洋音楽の12平均律を飛び出した音楽理論や調律理論、関連技術についての交流会です。\r\n集会では不定期でLTやお悩み相談も開催予定。\r\n音楽に関わりのあるすべての方々に、斬新で画期的な新時代の音楽のアプローチを提唱いたします。"
+    },
+    {
+        "ジャンル": "技術系",
+        "曜日": "金曜日",
+        "イベント名": "VR核融合コミュニティ Virtual Fusion Nexus",
+        "開始時刻": "20:30",
+        "開催周期": "単発",
+        "主催・副主催": "Hasegas",
+        "Join先": "https://vrchat.com/home/group/grp_7eda56d4-9538-4e9f-901d-f337092381c8",
+        "Discord": "https://discord.gg/sdE5qjeGy3",
+        "Twitter": "https://x.com/VRFusionNexus",
+        "ハッシュタグ": "#VirtualFusionNexus",
+        "ポスター": "https://data.vrc-ta-hub.com/poster/tate_white-1000.jpeg",
+        "イベント紹介": "VRChat上で活動する核融合コミュニティVirtual Fusion Nexus (VFN)です。VR核融合炉ツアーや核融合ライトニングトーク会といった核融合・フュージョンエネルギーに関わるイベントを不定期開催します。"
     },
     {
         "ジャンル": "技術系",
